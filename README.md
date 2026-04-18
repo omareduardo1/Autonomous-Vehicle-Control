@@ -23,4 +23,4 @@ To transition from fuzzy logic to machine learning, I generated my own dataset a
 •	Neuro-Fuzzy (AnfisEdit) Attempt: For the obstacle course, I utilized MATLAB's AnfisEdit tool to handle the increased complexity. Although the dynamic environment proved too unstable for a perfect lap, this phase provided deep insights into the limitations of automated learning in unstructured environments.
 
 📄 Documentation
-For a deep dive into the membership functions, Simulink schematics, and training results, please refer to the attached PDF report.
+For a deep dive into the membership functions, Simulink schematics, and training results, please refer to the attached PDF report (the report is in spanish).
